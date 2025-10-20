@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Gawtham</h1>
-<h3 align="center">A dedicated hardware-focused engineering student from Toronto with a passion for embedded systems and intelligent technology</h3>
+<h1 align="center">Hi there, I'm Gawtham 👋</h1>
+<h3 align="center">A hardware engineering student from Toronto with a passion for digital design, signal processing, and communications.</h3>
 
-- 🔭 I’m currently working on **bayesian optimization for laboratory automation**
+---
 
-- 🌱 I’m currently learning **digital signal processing**
+<p align="left">
+  I'm an engineering student specializing in hardware, with a keen interest in building the technology of tomorrow. My focus is on the intersection of digital ASIC design, embedded systems, and their applications in signal processing and intelligent systems.
+</p>
 
-- 📫 How to reach me **ytgawtham@gmail.com**
+- 💼 &nbsp; I’m currently an **ASIC Design Intern @ Qualcomm**.
+- 💡 &nbsp; I’m exploring **Bayesian Optimization** for laboratory automation in my personal projects.
+- 🌱 &nbsp; I’m sharpening my skills in **Digital Signal Processing (DSP)** and **communication systems**.
+- 📫 &nbsp; How to reach me: **ytgawtham@gmail.com**
+
+<h3 align="left">Core Competencies:</h3>
+<p align="left">
+  <code>Digital Logic Design</code> <code>ASIC/FPGA</code> <code>Verilog/VHDL</code> <code>Embedded C/C++</code> <code>Python</code> <code>MATLAB</code> <code>Signal Processing</code> <code>Computer Architecture</code>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
