@@ -8,7 +8,7 @@
 </p>
 
 - 💼 &nbsp; I’ll be an **ASIC Design Intern @ Qualcomm** this coming summer.
-- 💡 &nbsp; I’m exploring **Bayesian Optimization** for laboratory automation in my personal projects.
+- 💡 &nbsp; I’ve explored **Bayesian Optimization** for laboratory automation in my previous experience as a software developer for the Acceleration Consortium.
 - 🌱 &nbsp; I’m sharpening my skills in **Digital Signal Processing (DSP)** and **communication systems**.
 - 📫 &nbsp; How to reach me: **ytgawtham@gmail.com**
 
