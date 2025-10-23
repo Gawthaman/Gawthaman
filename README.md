@@ -7,7 +7,7 @@
   I'm an engineering student specializing in hardware, with a keen interest in building the technology of tomorrow. My focus is on the intersection of digital ASIC design, embedded systems, and their applications in signal processing and intelligent systems.
 </p>
 
-- 💼 &nbsp; I’m currently an **ASIC Design Intern @ Qualcomm**.
+- 💼 &nbsp; I’ll be an **ASIC Design Intern @ Qualcomm** this coming summer.
 - 💡 &nbsp; I’m exploring **Bayesian Optimization** for laboratory automation in my personal projects.
 - 🌱 &nbsp; I’m sharpening my skills in **Digital Signal Processing (DSP)** and **communication systems**.
 - 📫 &nbsp; How to reach me: **ytgawtham@gmail.com**
